@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/lyrics.gif.gif" width="100%" />
+  <img src="assets/lyrics.gif.gif" width="90%" />
 </p>
 
-### 💻 Tech Stack:
+<h3 align="center">
+Languages
+</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
@@ -12,8 +14,6 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
 </p>
-
----
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ramocta&theme=dark&hide_border=false" />
