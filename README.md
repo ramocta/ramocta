@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/lyrics.gif.gif" width="500" />
+  <img src="assets/lyrics.gif.gif" width="100%" />
 </p>
 
 ### 💻 Tech Stack:
