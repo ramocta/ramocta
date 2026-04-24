@@ -1,3 +1,9 @@
+<h2 align="center">
+    AHMAD OKTA RAMADHAN
+</h2>
+<p align="center">
+programer & gamers
+</p>
 <p align="center">
   <img src="assets/lyrics.gif.gif" width="90%" />
 </p>
