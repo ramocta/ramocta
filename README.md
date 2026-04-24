@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=Ahmad%20Okta%20Ramadhan&textBg=false&fontSize=50&reversal=true&fontColor=808080)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=200&color=gradient&text=Ahmad%20Okta%20Ramadhan&textBg=false&fontSize=50&reversal=true&fontColor=808080&desc=Student%20at%20Jember%20State%20Polytechnic&descAlignY=70&animation=twinkling)
 <p align="center">
   <img src="assets/lyrics.gif.gif" width="90%" />
 </p>
 
 <h3 align="center">
-Languages
+What i'm learn
 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
