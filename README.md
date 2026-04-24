@@ -1,7 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=200&color=gradient&text=Ahmad%20Okta%20Ramadhan&textBg=false&fontSize=50&reversal=true&fontColor=808080&desc=Student%20at%20Jember%20State%20Polytechnic&descAlignY=70&animation=twinkling)
-<p align="center">
-  <img src="assets/lyrics.gif.gif" width="90%" />
-</p>
 
 <h3 align="center">
 What i'm learn
@@ -24,5 +21,8 @@ What i'm learn
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ramocta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" />
 </p>
 
+<p align="center">
+  <img src="assets/lyrics.gif.gif" width="85%" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
