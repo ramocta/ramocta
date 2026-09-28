@@ -11,17 +11,19 @@ What i'm learn
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
 
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=ramocta&theme=dark&hide_border=false" width="69%"/>
-
-  <img src="assets/animekk.gif" width="30%" align="top" />
+  
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ramocta&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="50%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ramocta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" />
+  <img src="https://streak-stats.demolab.com/?user=ramocta&theme=graywhite&hide_border=false" width="69%" align="top"/>
+
+  <img src="assets/animek.gif" width="30%" align="top"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ramocta&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" width="50%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ramocta&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" />
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
