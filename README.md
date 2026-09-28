@@ -1,18 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=200&color=gradient&text=Ahmad%20Okta%20Ramadhan&textBg=false&fontSize=50&reversal=true&fontColor=808080&desc=Student%20at%20Jember%20State%20Polytechnic&descAlignY=70&animation=twinkling)
-
-<h3 align="center">
-What i'm learn
-</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
-
-  
-</p>
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100%&color=gradient&text=Ahmad%20Okta%20Ramadhan&textBg=false&fontSize=50&reversal=true&fontColor=808080&animation=twinkling)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ramocta&theme=graywhite&hide_border=false" width="69%" align="top"/>
@@ -25,5 +11,16 @@ What i'm learn
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ramocta&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%" />
 </p>
 
+<h3 align="center">
+What i'm learn
+</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
