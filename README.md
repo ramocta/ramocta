@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=Ahmad%20Okta%20Ramadhan&textBg=false&fontSize=50&reversal=true&fontColor=00000&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=Ahmad%20Okta%20Ramadhan&textBg=false&fontSize=50&reversal=true&fontColor=f4f4f4&animation=twinkling)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ramocta&theme=graywhite&hide_border=true" width="69%" align="top"/>
