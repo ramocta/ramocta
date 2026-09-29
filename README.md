@@ -2,11 +2,10 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ramocta&theme=graywhite&hide_border=true" width="69%" align="top"/>
-
-  <img src="assets/animek.gif" width="30%" align="top"/>
+  <img src="assets/animek.gif" width="30%" align="top" style="margin-left: -5%; position: relative; z-index: 2;"/>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=ramocta&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true" width="50%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ramocta&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="40%"/>
 </p>
