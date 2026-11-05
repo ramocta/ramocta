@@ -25,4 +25,3 @@ What i'm learn
 <p align="center">
   <img src="https://raw.githubusercontent.com/ramocta/ramocta/output/github-snake.svg" alt="snake gif" />
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
